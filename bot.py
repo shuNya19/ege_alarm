@@ -1,4 +1,4 @@
-token = '1751941649:AAHUCgdGjAl_SdWyHAj2zu375fmF7QU2toU'
+token = '***'
 import telebot
 import time
 import schedule
