@@ -1,4 +1,4 @@
-token = '1751941649:AAHUCgdGjAl_SdWyHAj2zu375fmF7QU2toU'
+token = '***'
 from playsound import playsound
 import telebot
 import schedule
